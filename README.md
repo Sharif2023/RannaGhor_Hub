@@ -25,3 +25,7 @@ Allow users to rate and review recipes.
 ### Social Sharing: 
 
 Enable users to share recipes on social media.
+
+## Tools: ##
+
+Tailwindcss, PHP, Mysql, Javascript 
